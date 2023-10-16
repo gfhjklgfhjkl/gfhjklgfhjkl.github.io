@@ -1,2 +1,4 @@
 venv
 .idea
+notebook.ipynb
+.ipynb_checkpoints
